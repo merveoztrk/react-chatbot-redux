@@ -1,0 +1,120 @@
+.right-sight {
+    /* position: absolute; */
+    width: 25%;
+    height: 902px;
+    left: 1019px;
+    top: 0px;
+}
+
+.img {
+    background-image: url('./01.svg');
+    background-repeat: no-repeat;
+    /* position: absolute; */
+    width: 340px;
+    height: 218px;
+    left: 1019px;
+    top: 0px;
+}
+
+.email {
+    /* position: absolute; */
+    width: 165px;
+    height: 43px;
+    /* left: 700px; */
+    padding: 20px;
+    margin-left: 20px;
+    top: 253px;
+}
+
+.phone {
+    /* position: absolute; */
+    width: 123px;
+    height: 43px;
+    /* left: 1055px; */
+    padding: 20px;
+    margin-left: 20px;
+    top: 335px;
+}
+
+.label {
+    /* position: absolute; */
+    width: 156px;
+    height: 46px;
+    /* left: 1055px; */
+    padding: 20px;
+    margin-left: 20px;
+    top: 438px;
+
+}
+
+.attachment {
+    display: flex;
+    flex-direction: column;
+    /* position: absolute; */
+    width: 104px;
+    height: 136px;
+    /* left: 1055px; */
+    padding: 20px;
+    margin-left: 20px;
+    top: 542px;
+}
+
+.email-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #8B8B8B;
+}
+
+.phone-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #8B8B8B;
+
+}
+
+.labels-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #8B8B8B;
+}
+
+.attachment-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #8B8B8B;
+}
+
+.tag {
+    background: #A3B8E0;
+    border-radius: 10px;
+}
+
+.ReactButton {
+    background: #FA8299;
+    border-radius: 60px;
+    width: 235px;
+    height: 42px;
+    left: 45px;
+    top: 35px;
+
+}
+
+.ReactButton:hover {
+    cursor: default;
+}
